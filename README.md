@@ -1,6 +1,6 @@
 # JavaScript-Libraries
 
-#### Some of the JS Libraries that can be used in development.
+#### These are some of the JS Libraries that are being used in development.
 ---
 
 ## Major Frameworks
