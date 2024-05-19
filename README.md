@@ -40,7 +40,7 @@ Chakra UI provides a small set of core components that can be used to build a wi
 
 Shadcn-UI provides copy-pasteable, customizable UI components for web apps built with Tailwind CSS and Radix UI.
 
-<a href="https://ui.aceternity.com/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:1400/0*3GRHW4UEaZqWuYj2.png" alt="Aceternity-UI" width="300"/></a>
+<a href="https://ui.aceternity.com/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/9828afef-4ab6-49de-aefb-655e6210711b" alt="Aceternity-UI" width="300"/></a>
 
 - ### Aceternity-UI
 
@@ -56,13 +56,13 @@ An excellent option for building enterprise-grade products. It offers a comprehe
 
 ## Animation Libraries
 
-<a href="https://gsap.com/" target="_blank"><img src="https://cdn.mos.cms.futurecdn.net/252USFwhUaVeFm664hWzFA.jpg" alt="Ant Design" width="300"/></a>
+<a href="https://gsap.com/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/4326211d-bf2a-4572-88f3-e5c05b8b13b8" alt="Ant Design" width="300"/></a>
 
 - ### Gsap
 
 GSAP (GreenSock Animation Platform) is a JavaScript library that lets you create complex and creative animations for your web projects, giving you precise control over how elements move and change on the screen.
 
-<a href="https://www.framer.com/motion/" target="_blank"><img src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Fuk0uq2vb0zlmw9h77oh3.png" alt="Ant Design" width="300"/></a>
+<a href="https://www.framer.com/motion/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/43c23b96-1840-4da8-8a45-27eec4047f6a" alt="Ant Design" width="300"/></a>
 
 - ### Framer Motion
 
@@ -77,7 +77,7 @@ Framer Motion is a powerful animation library for React that lets you define ani
 
 Locomotive.js is a JavaScript library for creating smooth scroll experiences on websites, allowing you to control and enhance how users interact with your web pages.
 
-<a href="https://lenis.darkroom.engineering/" target="_blank"><img src="https://lenis.darkroom.engineering/og.png" alt="Ant Design" width="300"/></a>
+<a href="https://lenis.darkroom.engineering/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/80d0c361-822e-4609-8734-02ab31313694" alt="Ant Design" width="300"/></a>
 
 - ### Lenis Scroll
 
@@ -87,13 +87,13 @@ Lenis is a lightweight JavaScript library specifically designed to add smooth, b
 
 ## 3D Libraries
 
-<a href="https://threejs.org/" target="_blank"><img src="https://miro.medium.com/v2/resize:fit:724/1*6s_Dkfeldg35ySmAp0tPkQ.png" alt="Three.js" width="300"/></a>
+<a href="https://threejs.org/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/f79d2c0e-8695-46ae-87a8-baa733acdc85" alt="Three.js" width="300"/></a>
 
 - ### Three.js
 
 Three.js is one of the most popular JavaScript 3D libraries. It is a low-level library that provides a broad set of features for creating and manipulating 3D objects, defining materials, handling camera perspectives, implementing lighting and shadows, and managing animations.
 
-<a href="https://babylonjs.com/" target="_blank"><img src="https://doc.babylonjs.com/img/home/babylonjs_identity_color.png" alt="Babylon.js" width="300"/></a>
+<a href="https://babylonjs.com/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/878f9661-eedf-4b1e-981f-45a4381ceca9" alt="Babylon.js" width="300"/></a>
 
 - ### Babylon.js
 
