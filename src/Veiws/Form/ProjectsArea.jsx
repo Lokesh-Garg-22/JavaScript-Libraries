@@ -37,7 +37,7 @@ export default function ProjectsArea({ field }) {
       <ContainerPopover
         key={i}
         className={cn(
-          "min-w-40 w-full h-fit shrink-0 p-4 max-sm:p-2 shadow-glow",
+          "min-w-40 max-w-60 max-sm:max-w-full h-fit shrink-0 p-4 max-sm:p-2 shadow-glow",
           shadow.g.base
         )}
       >
