@@ -54,15 +54,28 @@ An excellent option for building enterprise-grade products. It offers a comprehe
 
 ---
 
+## CSS Libraries
+
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/4326211d-bf2a-4572-88f3-e5c05b8b13b8" alt="Tailwind CSS" width="300"/></a>
+
+- ### Tailwind CSS
+
+Tailwind CSS is a utility-first CSS framework that provides pre-defined classes for styling HTML elements directly, allowing rapid development and customization without writing custom CSS.
+
+Note:- A Good Library to go with Tailwind CSS is
+**_Tailwind-Merge_** and **_clsx_**
+
+---
+
 ## Animation Libraries
 
-<a href="https://gsap.com/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/4326211d-bf2a-4572-88f3-e5c05b8b13b8" alt="Ant Design" width="300"/></a>
+<a href="https://gsap.com/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/4326211d-bf2a-4572-88f3-e5c05b8b13b8" alt="Gsap" width="300"/></a>
 
 - ### Gsap
 
 GSAP (GreenSock Animation Platform) is a JavaScript library that lets you create complex and creative animations for your web projects, giving you precise control over how elements move and change on the screen.
 
-<a href="https://www.framer.com/motion/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/43c23b96-1840-4da8-8a45-27eec4047f6a" alt="Ant Design" width="300"/></a>
+<a href="https://www.framer.com/motion/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/43c23b96-1840-4da8-8a45-27eec4047f6a" alt="Framer Motion" width="300"/></a>
 
 - ### Framer Motion
 
@@ -77,7 +90,7 @@ Framer Motion is a powerful animation library for React that lets you define ani
 
 Locomotive.js is a JavaScript library for creating smooth scroll experiences on websites, allowing you to control and enhance how users interact with your web pages.
 
-<a href="https://lenis.darkroom.engineering/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/80d0c361-822e-4609-8734-02ab31313694" alt="Ant Design" width="300"/></a>
+<a href="https://lenis.darkroom.engineering/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/80d0c361-822e-4609-8734-02ab31313694" alt="Lenis Scroll" width="300"/></a>
 
 - ### Lenis Scroll
 
@@ -98,3 +111,19 @@ Three.js is one of the most popular JavaScript 3D libraries. It is a low-level l
 - ### Babylon.js
 
 Babylon.js is another popular JavaScript 3D library that is known for its ease of use and performance. It provides a higher-level API than Three.js, which can make it easier to get started with 3D development. Babylon.js also includes a number of features out of the box, such as physics simulation and particle systems.
+
+---
+
+## Other Libraries
+
+<a href="https://axios-http.com/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/878f9661-eedf-4b1e-981f-45a4381ceca9" alt="Axios" width="300"/></a>
+
+- ### Axios
+
+Axios is a popular JavaScript library for making HTTP requests to servers, simplifying data fetching and handling in web applications.
+
+<a href="https://d3js.org/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/878f9661-eedf-4b1e-981f-45a4381ceca9" alt="D3.js" width="300"/></a>
+
+- ### D3.js
+
+D3.js is a powerful JavaScript library for creating dynamic, interactive data visualizations in web browsers using HTML, SVG, and CSS. It offers unparalleled flexibility for crafting custom and complex visualizations.
