@@ -56,7 +56,7 @@ An excellent option for building enterprise-grade products. It offers a comprehe
 
 ## CSS Libraries
 
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/4326211d-bf2a-4572-88f3-e5c05b8b13b8" alt="Tailwind CSS" width="300"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/user-attachments/assets/6796391a-8621-46ba-b7b2-85c460cadeee" alt="Tailwind CSS" width="300"/></a>
 
 - ### Tailwind CSS
 
@@ -116,13 +116,13 @@ Babylon.js is another popular JavaScript 3D library that is known for its ease o
 
 ## Other Libraries
 
-<a href="https://axios-http.com/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/878f9661-eedf-4b1e-981f-45a4381ceca9" alt="Axios" width="300"/></a>
+<a href="https://axios-http.com/" target="_blank"><img src="https://github.com/user-attachments/assets/180b0515-8b35-480f-88da-feca643ebfbe" alt="Axios" width="300"/></a>
 
 - ### Axios
 
 Axios is a popular JavaScript library for making HTTP requests to servers, simplifying data fetching and handling in web applications.
 
-<a href="https://d3js.org/" target="_blank"><img src="https://github.com/Lokesh-Garg-22/JavaScript-Libraries/assets/113102481/878f9661-eedf-4b1e-981f-45a4381ceca9" alt="D3.js" width="300"/></a>
+<a href="https://d3js.org/" target="_blank"><img src="https://github.com/user-attachments/assets/713e3c91-de59-4b71-bcfa-21daa1839d7d" alt="D3.js" width="300"/></a>
 
 - ### D3.js
 
