@@ -2,6 +2,8 @@
 
 #### These are some of the JS Libraries that are being used in development.
 
+#### **NOTE:- This is a community-driven repository, created for the community by the community**
+
 ---
 
 ## Major Frameworks
