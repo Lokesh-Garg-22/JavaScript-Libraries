@@ -136,6 +136,16 @@ Spline.js refers to the JavaScript tools that allow you to embed and interact wi
 
 ---
 
+## Physics
+
+<a href="https://brm.io/matter-js/" target="_blank"><img src="./assets/matter-js.svg" alt="Matter.js" width="300"/></a>
+
+- ### Matter.js
+
+Matter.js is a JavaScript library that provides a 2D rigid body physics engine for web applications. It allows developers to create realistic physics simulations in the browser, handling collisions, gravity, friction, and constraints. Matter.js is lightweight, efficient, and highly customizable, making it suitable for games, animations, and interactive visualizations.
+
+---
+
 ## Other Libraries
 
 <a href="https://axios-http.com/" target="_blank"><img src="./assets/axios.png" alt="Axios" width="300"/></a>
