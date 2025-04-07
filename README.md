@@ -160,11 +160,29 @@ Axios is a popular JavaScript library for making HTTP requests to servers, simpl
 
 D3.js is a powerful JavaScript library for creating dynamic, interactive data visualizations in web browsers using HTML, SVG, and CSS. It offers unparalleled flexibility for crafting custom and complex visualizations.
 
+<a href="https://www.chartjs.org/docs/latest/" target="_blank"><img src="./assets/chartjs.svg" alt="chartjs" width="300"/></a>
+
+- ### Chart.js
+
+A simple yet flexible JavaScript charting library for designers and developers. It supports eight different chart types and provides elegant, responsive, and customizable charts using the HTML5 canvas element.
+
+<a href="https://pixijs.com/" target="_blank"><img src="./assets/pixijs.svg" alt="PixiJs" width="300"/></a>
+
+- ### Pixijs
+
+A fast, flexible, and powerful 2D rendering engine that uses WebGL with canvas fallback. It allows you to create rich interactive graphics, games, and visual experiences for the web.
+
 <a href="https://www.reactbits.dev/" target="_blank"><img src="./assets/reactbits.png" alt="ReactBits" width="300"/></a>
 
 - ### ReactBits
 
 ReactBits is a curated collection of concise and reusable React patterns, techniques, and practical tips aimed at enhancing the development process. It acts as a valuable resource for React developers of all levels, offering insights into best practices, common solutions to recurring problems, and ways to write more efficient, maintainable, and readable React code. ReactBits often focuses on smaller, digestible pieces of knowledge rather than large, complex libraries.
+
+<a href="https://jquery.com/" target="_blank"><img src="./assets/JQuery.svg" alt="JQuery" width="300"/></a>
+
+- ### JQuery
+
+A fast, small, and feature-rich JavaScript library. It simplifies HTML DOM tree traversal and manipulation, event handling, animation, and Ajax with an easy-to-use API that works across a multitude of browsers
 
 # Package Managers
 
