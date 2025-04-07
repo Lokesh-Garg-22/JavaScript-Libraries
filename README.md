@@ -146,6 +146,21 @@ Matter.js is a JavaScript library that provides a 2D rigid body physics engine f
 
 ---
 
+## State Management
+
+<a href="https://redux.js.org/" target="_blank"><img src="./assets/redux.svg" alt="Redux" width="300"/></a>
+
+- ### Redux
+
+A predictable state container for JavaScript applications. It helps you write applications that behave consistently, are easy to test, and can run in different environments (client, server, and native). It provides a centralized store for managing application state
+
+<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="./assets/zustand.jpg" alt="Zustand" width="300"/></a>
+
+- ### Zustand
+
+A small, fast, and scalable bearbones state-management solution using simplified flux principles. It's known for its ease of use, minimal boilerplate, and excellent performance for React applications (though it's not strictly tied to React).
+---
+
 ## Other Libraries
 
 <a href="https://axios-http.com/" target="_blank"><img src="./assets/axios.png" alt="Axios" width="300"/></a>
