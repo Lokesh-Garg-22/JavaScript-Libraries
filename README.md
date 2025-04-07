@@ -158,8 +158,7 @@ A predictable state container for JavaScript applications. It helps you write ap
 
 - ### Zustand
 
-A small, fast, and scalable bearbones state-management solution using simplified flux principles. It's known for its ease of use, minimal boilerplate, and excellent performance for React applications (though it's not strictly tied to React).
----
+## A small, fast, and scalable bearbones state-management solution using simplified flux principles. It's known for its ease of use, minimal boilerplate, and excellent performance for React applications (though it's not strictly tied to React).
 
 ## Other Libraries
 
@@ -193,7 +192,7 @@ A fast, flexible, and powerful 2D rendering engine that uses WebGL with canvas f
 
 ReactBits is a curated collection of concise and reusable React patterns, techniques, and practical tips aimed at enhancing the development process. It acts as a valuable resource for React developers of all levels, offering insights into best practices, common solutions to recurring problems, and ways to write more efficient, maintainable, and readable React code. ReactBits often focuses on smaller, digestible pieces of knowledge rather than large, complex libraries.
 
-<a href="https://jquery.com/" target="_blank"><img src="./assets/JQuery.svg" alt="JQuery" width="300"/></a>
+<a href="https://jquery.com/" target="_blank"><img src="./assets/JQuery.svg" alt="JQuery" width="300" style="background-color: whitesmoke; padding: 4px;" /></a>
 
 - ### JQuery
 
@@ -223,21 +222,21 @@ Yarn is a package manager for JavaScript that aims to improve upon npm. It focus
 
 # Backend Libraries
 
-## major Frameworks
+## Major Frameworks
 
-<a href="https://expressjs.com/" target="_blank"><img src="./assets/Express.svg" alt="Express" width="300"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="./assets/Express.svg" alt="Express" width="300" style="background-color: whitesmoke; padding: 4px;" /></a>
 
 - ### Express
 
-A minimal and flexible Node.js web application framework that provides a robust set of features for building single-page, multi-page, and hybrid web applications 1  and APIs. It's known for its speed and unopinionated nature, allowing developers freedom in choosing components.
+A minimal and flexible Node.js web application framework that provides a robust set of features for building single-page, multi-page, and hybrid web applications 1 and APIs. It's known for its speed and unopinionated nature, allowing developers freedom in choosing components.
 
-<a href="https://www.djangoproject.com/" target="_blank"><img src="./assets/Django.svg" alt="Django" width="300"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="./assets/Django.svg" alt="Django" width="300" style="background-color: whitesmoke; padding: 4px;"/></a>
 
 - ### Django
 
 A high-level Python web framework that encourages rapid development and clean, pragmatic design. Following the "batteries included" philosophy, it provides many built-in features like an ORM, admin interface, and templating engine, making it suitable for complex web applications.
 
-<a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img src="./assets/Flask.svg" alt="Flask" width="300"/></a>
+<a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img src="./assets/Flask.svg" alt="Flask" width="300" style="background-color: whitesmoke; padding: 4px;" /></a>
 
 - ### Flask
 
