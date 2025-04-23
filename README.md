@@ -262,3 +262,23 @@ An ODM (Object Document Mapper) for MongoDB, simplifying interaction with MongoD
 - ### Sequelize
 
 A promise-based Node.js ORM for relational databases (like PostgreSQL, MySQL, MariaDB, etc.), providing an easy way to manage and query databases with models.
+
+<a href="https://typeorm.io/" target="_blank"><img src="./assets/typeorm.png" alt="Sequelize" width="300"/></a>
+
+- ### TypeORM
+
+ An ORM for TypeScript and JavaScript that works with databases like MySQL, PostgreSQL, SQLite, and more. It’s designed for developers who use TypeScript and prefer working with classes and decorators.
+
+## Authentication & Authorization
+
+<a href="https://www.passportjs.org/" target="_blank"><img src="./assets/passport.png" alt="Passport" width="300"/></a>
+
+- ### Passport.js
+
+A popular authentication middleware for Node.js, providing a flexible set of strategies for logging users in via various methods (e.g., local, social media, OAuth).
+
+<a href="https://jwt.io/" target="_blank"><img src="./assets/jwt-flower.webp" alt="JWT" width="300"/></a>
+
+- ### JWT (jsonwebtoken)
+
+A library for creating and verifying JSON Web Tokens, often used for managing user authentication and maintaining secure sessions in modern web apps.
