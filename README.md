@@ -248,3 +248,17 @@ Created by the team behind Express, Koa is a smaller, more expressive framework.
 - ### Hapi
 
 A rich framework for building applications and services. Known for its powerful plugin system, Hapi is ideal for building RESTful APIs and offers fine-grained control over request handling and validation.
+
+## Database/ORM Libraries
+
+<a href="https://mongoosejs.com/" target="_blank"><img src="./assets/mongoose.svg" alt="Mongoose" width="300"/></a>
+
+- ### Mongoose
+
+An ODM (Object Document Mapper) for MongoDB, simplifying interaction with MongoDB by allowing developers to define models and schemas for data validation and querying.
+
+<a href="https://sequelize.org/" target="_blank"><img src="./assets/sequelize.svg" alt="Sequelize" width="300"/></a>
+
+- ### Sequelize
+
+A promise-based Node.js ORM for relational databases (like PostgreSQL, MySQL, MariaDB, etc.), providing an easy way to manage and query databases with models.
