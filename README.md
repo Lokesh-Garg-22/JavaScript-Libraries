@@ -230,34 +230,56 @@ Yarn is a package manager for JavaScript that aims to improve upon npm. It focus
 
 A minimal and flexible Node.js web application framework that provides a robust set of features for building single-page, multi-page, and hybrid web applications 1 and APIs. It's known for its speed and unopinionated nature, allowing developers freedom in choosing components.
 
-<a href="https://www.djangoproject.com/" target="_blank"><img src="./assets/Django.svg" alt="Django" width="300" /></a>
+<a href="https://koajs.com/" target="_blank"><img src="./assets/koajs_logo.svg" alt="Koa" width="300"/></a>
 
-- ### Django
+- ### Koa
 
-A high-level Python web framework that encourages rapid development and clean, pragmatic design. Following the "batteries included" philosophy, it provides many built-in features like an ORM, admin interface, and templating engine, making it suitable for complex web applications.
+Created by the team behind Express, Koa is a smaller, more expressive framework. It focuses on providing a more robust foundation for building APIs with async/await support and a modular structure.
 
-<a href="https://flask.palletsprojects.com/en/stable/" target="_blank"><img src="./assets/Flask.svg" alt="Flask" width="300"/></a>
+<a href="https://nestjs.com/" target="_blank"><img src="./assets/nest.svg" alt="Nest" width="300"/></a>
 
-- ### Flask
+- ### Nest
 
-A micro web framework written in Python. It's lightweight and modular, giving developers a lot of control over their choice of tools and libraries. Flask is easy to learn and is often used for smaller to medium-sized applications and APIs.
+ A progressive Node.js framework for building scalable and maintainable server-side applications. It uses TypeScript by default and incorporates elements from Angular for a structured, modular approach.
 
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="./assets/Spring.svg" alt="SpringBoot" width="300"/></a>
+<a href="https://hapi.dev/" target="_blank"><img src="./assets/hapi.png" alt="Hapi" width="300"/></a>
 
-- ### SpringBoot
+- ### Hapi
 
-An open-source Java-based framework used to create standalone and production-grade Spring-powered applications with minimal fuss. It simplifies the configuration and setup process by providing sensible defaults and embedded servers, making it easy to get Java-based backend applications running quickly.
+A rich framework for building applications and services. Known for its powerful plugin system, Hapi is ideal for building RESTful APIs and offers fine-grained control over request handling and validation.
 
-<a href="https://rubyonrails.org/" target="_blank"><img src="./assets/ruby_on_rails.svg" alt="Ruby on Rails" width="300"/></a>
+## Database/ORM Libraries
 
-- ### Ruby on Rails
+<a href="https://mongoosejs.com/" target="_blank"><img src="./assets/mongoose.svg" alt="Mongoose" width="300"/></a>
 
-A web application framework written in Ruby. It follows the "convention over configuration" paradigm, which speeds up development by making assumptions about the developer's needs. Rails is known for its developer-friendly syntax and powerful built-in features, making it suitable for a wide range of web applications.
+- ### Mongoose
 
-<a href="https://laravel.com/" target="_blank"><img src="./assets/Laravel.svg" alt="Laravel" width="300"/></a>
+An ODM (Object Document Mapper) for MongoDB, simplifying interaction with MongoDB by allowing developers to define models and schemas for data validation and querying.
 
-- ### Laravel
+<a href="https://sequelize.org/" target="_blank"><img src="./assets/sequelize.svg" alt="Sequelize" width="300"/></a>
 
-A PHP web framework known for its elegant syntax and developer-friendly features. It provides tools for common web development tasks such as routing, authentication, templating, and database interactions, making it a popular choice for building robust and scalable web applications with PHP.
+- ### Sequelize
+
+A promise-based Node.js ORM for relational databases (like PostgreSQL, MySQL, MariaDB, etc.), providing an easy way to manage and query databases with models.
+
+<a href="https://typeorm.io/" target="_blank"><img src="./assets/typeorm.png" alt="Sequelize" width="300"/></a>
+
+- ### TypeORM
+
+ An ORM for TypeScript and JavaScript that works with databases like MySQL, PostgreSQL, SQLite, and more. It’s designed for developers who use TypeScript and prefer working with classes and decorators.
+
+## Authentication & Authorization
+
+<a href="https://www.passportjs.org/" target="_blank"><img src="./assets/passport.png" alt="Passport" width="300"/></a>
+
+- ### Passport.js
+
+A popular authentication middleware for Node.js, providing a flexible set of strategies for logging users in via various methods (e.g., local, social media, OAuth).
+
+<a href="https://jwt.io/" target="_blank"><img src="./assets/jwt-flower.webp" alt="JWT" width="300"/></a>
+
+- ### JWT (jsonwebtoken)
+
+A library for creating and verifying JSON Web Tokens, often used for managing user authentication and maintaining secure sessions in modern web apps.
 
 ---
