@@ -158,7 +158,7 @@ A predictable state container for JavaScript applications. It helps you write ap
 
 - ### Zustand
 
-## A small, fast, and scalable bearbones state-management solution using simplified flux principles. It's known for its ease of use, minimal boilerplate, and excellent performance for React applications (though it's not strictly tied to React).
+A small, fast, and scalable bearbones state-management solution using simplified flux principles. It's known for its ease of use, minimal boilerplate, and excellent performance for React applications (though it's not strictly tied to React).
 
 ## Other Libraries
 
@@ -197,6 +197,8 @@ ReactBits is a curated collection of concise and reusable React patterns, techni
 - ### JQuery
 
 A fast, small, and feature-rich JavaScript library. It simplifies HTML DOM tree traversal and manipulation, event handling, animation, and Ajax with an easy-to-use API that works across a multitude of browsers
+
+---
 
 # Package Managers
 
@@ -240,13 +242,15 @@ Created by the team behind Express, Koa is a smaller, more expressive framework.
 
 - ### Nest
 
- A progressive Node.js framework for building scalable and maintainable server-side applications. It uses TypeScript by default and incorporates elements from Angular for a structured, modular approach.
+A progressive Node.js framework for building scalable and maintainable server-side applications. It uses TypeScript by default and incorporates elements from Angular for a structured, modular approach.
 
 <a href="https://hapi.dev/" target="_blank"><img src="./assets/hapi.png" alt="Hapi" width="300"/></a>
 
 - ### Hapi
 
 A rich framework for building applications and services. Known for its powerful plugin system, Hapi is ideal for building RESTful APIs and offers fine-grained control over request handling and validation.
+
+---
 
 ## Database/ORM Libraries
 
@@ -266,7 +270,9 @@ A promise-based Node.js ORM for relational databases (like PostgreSQL, MySQL, Ma
 
 - ### TypeORM
 
- An ORM for TypeScript and JavaScript that works with databases like MySQL, PostgreSQL, SQLite, and more. It’s designed for developers who use TypeScript and prefer working with classes and decorators.
+An ORM for TypeScript and JavaScript that works with databases like MySQL, PostgreSQL, SQLite, and more. It’s designed for developers who use TypeScript and prefer working with classes and decorators.
+
+---
 
 ## Authentication & Authorization
 
