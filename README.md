@@ -6,6 +6,187 @@
 
 ---
 
+## Index
+
+<ul>
+<li>
+<details>
+<summary> 
+<a href="#frontend-libraries">Frontend Libraries</a>
+</summary>
+
+<ul>
+<li>
+<details>
+<summary>
+<a href="#major-frameworks">Major Frameworks</a>
+</summary>
+
+- [Next.js](#nextjs)
+- [Vite](#vite)
+</details>
+</li>
+
+<li>
+<details>
+<summary>
+<a href="#ui-libraries">UI Libraries</a>
+</summary>
+
+- [Material UI](#material-ui)
+- [Chakra UI](#chakra-ui)
+- [Shadcn UI](#shadcn-ui)
+- [Atomix UI](#atomix-ui)
+- [Aceternity UI](#aceternity-ui)
+- [Ant Design](#ant-design)
+- [Dot UI](#dot-ui)
+</details>
+</li>
+
+<li>
+<details>
+<summary>
+<a href="#css-libraries">CSS Libraries</a>
+</summary>
+
+- [Tailwind CSS](#tailwind-css)
+</details>
+</li>
+
+<li>
+<details>
+<summary><a href="#animation-libraries">Animation Libraries</a>
+</summary>
+
+- [Gsap](#gsap)
+- [Framer Motion](#framer-motion)
+</details>
+</li>
+
+<li>
+<details>
+<summary><a href="#scroll-libraries">Scroll Libraries</a>
+</summary>
+
+- [Locomotive.js](#locomotivejs)
+- [Lenis Scroll](#lenis-scroll)
+</details>
+</li>
+
+<li>
+<details>
+<summary>
+<a href="#3d-libraries">3D Libraries</a>
+</summary>
+
+- [Three.js](#threejs)
+- [Babylon.js](#babylonjs)
+- [Spline.js](#splinejs)
+</details>
+</li>
+
+<li>
+<details>
+<summary>
+<a href="#physics">Physics</a>
+</summary>
+
+- [Matter.js](#matterjs)
+</details>
+</li>
+
+<li>
+<details>
+<summary>
+<a href="#state-management">State Management</a>
+</summary>
+
+- [Redux](#redux)
+- [Zustand](#zustand)
+</details>
+</li>
+
+<li>
+<details>
+<summary>
+<a href="#other-libraries">Other Libraries</a>
+</summary>
+
+- [Axios](#axios)
+- [D3.js](#d3js)
+- [Chart.js](#chartjs)
+- [Pixijs](#pixijs)
+- [ReactBits](#reactbits)
+- [JQuery](#jquery)
+</details>
+</li>
+
+<li>
+<details>
+<summary>
+<a href="#package-managers">Package Managers</a>
+</summary>
+
+- [NPM](#npm)
+- [PNPM](#pnpm)
+- [Yarn](#yarn)
+</details>
+</li>
+</ul>
+
+</details>
+</li>
+
+<li>
+<details>
+<summary>
+<a href="#backend-libraries">Backend Libraries</a>
+</summary>
+
+<ul>
+<li>
+<details>
+<summary>
+<a href="#major-frameworks-1">Major Frameworks</a>
+</summary>
+
+- [Express](#express)
+- [Koa](#koa)
+- [Nest](#nest)
+- [Hapi](#hapi)
+</details>
+</li>
+
+<li>
+<details>
+<summary>
+<a href="#databaseorm-libraries">Database/ORM Libraries</a>
+</summary>
+
+- [Mongoose](#mongoose)
+- [Sequelize](#sequelize)
+- [TypeORM](#typeorm)
+</details>
+</li>
+
+<li>
+<details>
+<summary>
+<a href="#authentication--authorization">Authentication & Authorization</a>
+</summary>
+
+- [Passport.js](#passportjs)
+- [JWT](#jwt-jsonwebtoken)
+</details>
+</li>
+</ul>
+
+</details>
+</li>
+</ul>
+
+---
+
 # Frontend Libraries
 
 ## Major Frameworks
@@ -28,31 +209,31 @@ Vite is a next-generation front-end build tool that offers super-fast developmen
 
 <a href="https://mui.com/" target="_blank"><img src="./assets/mui.png" alt="Material-UI" width="500"/></a>
 
-- ### Material-UI
+- ### Material UI
 
 It's based on Google's Material Design guidelines, which means it provides a clean, modern, and consistent look and feel for your applications. Material-UI offers a wide range of pre-built components, including buttons, menus, forms, cards, and more.
 
 <a href="https://v2.chakra-ui.com/" target="_blank"><img src="./assets/chakra.png" alt="Chakra-UI" width="500"/></a>
 
-- ### Chakra-UI
+- ### Chakra UI
 
 Chakra UI provides a small set of core components that can be used to build a wide variety of user interfaces. It also has a strong focus on accessibility and theming.
 
 <a href="https://ui.shadcn.com/" target="_blank"><img src="./assets/shadcn.png" alt="Shadcn-UI" width="500"/></a>
 
-- ### Shadcn-UI
+- ### Shadcn UI
 
 Shadcn-UI provides copy-pasteable, customizable UI components for web apps built with Tailwind CSS and Radix UI.
 
 <a href="https://atomix-ui.vercel.app/" target="_blank"><img src="./assets/atomix.jpg" alt="Atomix-UI" width="500"/></a>
 
-- ### Atomix-UI
+- ### Atomix UI
 
 Atomix UI is a React component library that follows the principles of Atomic Design. It provides a collection of reusable UI components, such as buttons, inputs, and layouts, that can be easily customized to match your brand's style. This approach helps you build consistent and scalable user interfaces efficiently.
 
 <a href="https://ui.aceternity.com/" target="_blank"><img src="./assets/aceternity.png" alt="Aceternity-UI" width="300"/></a>
 
-- ### Aceternity-UI
+- ### Aceternity UI
 
 Aceternity-UI is a collection of free, visually appealing React components with a focus on animations and aesthetics.
 
@@ -64,7 +245,7 @@ An excellent option for building enterprise-grade products. It offers a comprehe
 
 <a href="https://dotui.org/" target="_blank"><img src="./assets/dot_ui.png" alt="Dot ui" width="300"/></a>
 
-- ### Dot ui
+- ### Dot UI
 
 DotUI is a lightweight and efficient JavaScript UI framework designed for building web applications with a focus on simplicity and performance. It utilizes a declarative syntax, allowing developers to describe the desired UI structure and behavior in a clear and concise manner, reducing boilerplate code. DotUI aims to provide a fast rendering experience and a minimal learning curve for developers familiar with basic JavaScript concepts.
 
